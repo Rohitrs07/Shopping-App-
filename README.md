@@ -1,0 +1,1 @@
+This is a simple Shop App Website based React-Redux-JS with responsive UI.
